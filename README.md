@@ -34,4 +34,5 @@ This Python program is developed to generate a random password list.
 5. Create a Pull Request.
 ### Licence
 This project is licensed under the MIT License. Please refer to the LICENSE file for details.
+
 ![Örnek resim](passwordGenerator.png)
