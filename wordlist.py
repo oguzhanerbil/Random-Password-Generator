@@ -286,9 +286,9 @@ class Ui_Form(object):
         self.label_8.setText(_translate("Form", "<html><head/><body><p><span style=\" font-size:10pt;\">Kaç adet şifre :</span></p></body></html>"))
         self.radioButton_5.setText(_translate("Form", "Küçük Harf"))
         self.radioButton_6.setText(_translate("Form", "Sayılar"))
-        self.label_5.setText(_translate("Form", "Max"))
-        self.label_6.setText(_translate("Form", "Min"))
+        self.label_5.setText(_translate("Form", "Min"))
+        self.label_6.setText(_translate("Form", "Max"))
         self.radioButton_7.setText(_translate("Form", "Büyük Harf"))
         self.label_9.setText(_translate("Form", "<html><head/><body><p><span style=\" font-weight:600;\">Kayıt edilecek klasör yolu </span></p></body></html>"))
-        self.label.setText(_translate("Form", "World List"))
+        self.label.setText(_translate("Form", "Word List"))
 import resimler_rc
